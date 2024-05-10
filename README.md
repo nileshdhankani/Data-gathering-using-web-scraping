@@ -8,7 +8,7 @@ Certainly! Here's a sample content for a README file:
 This project involves scraping company data from the AmbitionBox website using web scraping techniques. The data includes company names, industries, locations, employee ratings, and reviews.
 
 ## Dependencies:
-- Python 3.x
+- Python 3.0
 - Beautiful Soup
 - Requests
 
